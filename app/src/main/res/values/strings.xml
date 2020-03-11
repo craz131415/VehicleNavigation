@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VehicleNavigation</string>
+    <string name="map_style_file_name">map_style.data</string>
+</resources>
